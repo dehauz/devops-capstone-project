@@ -1,3 +1,12 @@
+---
+name: User Story
+about: " Write well-formatted user stories for your GitHub kanban board."
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
